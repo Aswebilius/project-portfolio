@@ -18,7 +18,7 @@ const Hero = () => (
           to adding my skills and abilities to your company.
 
         </SectionText>
-        <Button onClick={() => window.location = 'https://drive.google.com/file/d/1t7H6-yB2b_DFDaYTjmgc9XCDC01oi4r-/view?usp=sharing'}>My Resume</Button>
+        <Button onClick={() => window.location = 'https://drive.google.com/file/d/1w8arkNPkoz0qrl9K2V7LQz_aUg5FahHy/view?usp=sharing'}>My Resume</Button>
       </LeftSection>
 
     </Section>
