@@ -4,7 +4,7 @@ export const projects = [
     description: "This project is a Social Media full MERN Stack application called Chapters. Here you can post anything you want to, upload pictures with your post, give and receive likes, leave hash tags on post, and delete any posts you feel embarrassed about.",
       image: '/images/chapters.jpg',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
+    source: 'https://github.com/Aswebilius/chapters',
     visit: 'https://project-3-chapters.netlify.app/',
     id: 0,
   },
